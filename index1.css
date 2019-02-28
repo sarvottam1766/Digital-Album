@@ -1,0 +1,16 @@
+body{
+    
+    background-color: lightgoldenrodyellow;
+    background: url(../img/intro-bg_1.jpg) no-repeat center center;
+
+} 
+table,td,th,tr{
+  border: 1px solid black;
+}
+.center{
+  margin: auto;
+  width: 88%;
+  border: 3px solid black;
+  padding: 10px;
+ background-image: url(../image/baby.jpg) ;
+}
